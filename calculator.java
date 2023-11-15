@@ -235,7 +235,7 @@ import javax.swing.SwingConstants;
             clearButton=new JButton("CLEAR");
             clearButton.setBounds(230, 430, 80, 80); 
             clearButton.addActionListener(this);
-            clearButton.setFont(new Font("Arial",Font.BOLD,14)); //Arial 40
+            clearButton.setFont(new Font("Arial",Font.BOLD,13)); //Arial 40
             clearButton.setBackground(Color.gray);
             jf.add(clearButton);
 
